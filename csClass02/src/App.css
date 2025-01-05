@@ -18,3 +18,7 @@ border: 1px solid gray;
   display: flex;
   justify-content: space-around;
 }
+.cart-title{
+  display: flex;
+  justify-content: space-around;
+}
