@@ -16,9 +16,23 @@ function App() {
   }, [])
 
   const handleCart = (p) => {
-    console.log(p);
-    setCart([p]);
+    // console.log(p);
+    const isExist = cart.find(item => item.id == p.id);
+    if (!isExist) {
+      setCart([...cart,p]);
+    }
+    else{
+      alert("already exist")
+    }
+
   }
+
+  // const num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+  // const num2 = [...num, 100];
+  // console.log(num2);
+
+
+
   console.log(cart);
 
   return (
@@ -37,6 +51,18 @@ function App() {
           <div className="cart-title">
             <h5>Name</h5>
             <h5>Price</h5>
+          </div>
+          <div>
+            {
+              cart.map((item, index) => (
+                <div className="cart-info">
+                  <p>{index+1}</p>
+                  <h5>{item.title.slice(0, 10)}</h5>
+                  <h5>{item.price}</h5>
+                <button >Delete</button>
+                </div>
+              ))
+            }
           </div>
         </div>
       </div>
