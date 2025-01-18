@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/x7hWCVW/5.webp",
+      "title": "Understanding React.js",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/swyzpKM/pro1.jpg",
+      "posted_date": "2025-01-10",
+      "reading_time": 7,
+      "hashtags": ["#React", "#JavaScript", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/zRC2z8b/Vectorrr.png",
+      "title": "Mastering CSS Grid",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/C5SXwmK/pro2.jpg",
+      "posted_date": "2025-01-12",
+      "reading_time": 5,
+      "hashtags": ["#CSS", "#Frontend", "#Design"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/h2kMV7v/Banner-Image.png",
+      "title": "Introduction to Machine Learning",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co.com/ZXTtWKK/pro3.jpg",
+      "posted_date": "2025-01-08",
+      "reading_time": 10,
+      "hashtags": ["#AI", "#MachineLearning", "#Python"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/vq0Sv6y/Rectangle-7.png",
+      "title": "Building APIs with Node.js",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co.com/sF5ss5W/pro4.jpg",
+      "posted_date": "2025-01-09",
+      "reading_time": 8,
+      "hashtags": ["#NodeJS", "#Backend", "#API"]
+    }
+  ]
+  
