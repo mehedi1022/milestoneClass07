@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Earbuds",
+      "description": "High-quality Bluetooth earbuds with noise cancellation.",
+      "photo": "https://i.ibb.co/sP7VHpQ/Rectangle-2-2.png",
+      "price": 49.99,
+      "credit": 3
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch",
+      "description": "Fitness tracker with heart rate monitor and GPS.",
+      "photo": "https://i.ibb.co/z7GMnyn/Rectangle-2-3.png",
+      "price": 79.99,
+      "credit": 2
+    },
+    {
+      "id": 3,
+      "name": "Gaming Keyboard",
+      "description": "Mechanical keyboard with RGB lighting and macro keys.",
+      "photo": "https://i.ibb.co/s6Q2NLP/Rectangle-2-4.png",
+      "price": 59.99,
+      "credit": 5
+    },
+    {
+      "id": 4,
+      "name": "4K Monitor",
+      "description": "27-inch UHD monitor with vibrant colors and HDR support.",
+      "photo": "https://i.ibb.co/6tbcdCc/Rectangle-3.png",
+      "price": 299.99,
+      "credit": 5
+    },
+    {
+      "id": 5,
+      "name": "Portable Speaker",
+      "description": "Compact wireless speaker with powerful bass.",
+      "photo": "https://i.ibb.co/6XJ58mC/Rectangle-2.png",
+      "price": 39.99,
+      "credit": 8
+    },
+    {
+      "id": 6,
+      "name": "Laptop Stand",
+      "description": "Adjustable stand for laptops with ergonomic design.",
+      "photo": "https://i.ibb.co/L1PFPW3/Rectangle-2-5.png",
+      "price": 24.99,
+      "credit": 2
+    },
+    {
+      "id": 7,
+      "name": "USB-C Hub",
+      "description": "Multiport adapter with HDMI, USB 3.0, and SD card reader.",
+      "photo": "https://i.ibb.co/GC6xY2Z/Rectangle-3-1.png",
+      "price": 29.99,
+      "credit": 6
+    },
+    {
+      "id": 8,
+      "name": "Action Camera",
+      "description": "Waterproof action camera with 4K recording and wide-angle lens.",
+      "photo": "https://i.ibb.co/nm12dgJ/Rectangle-2-1.png",
+      "price": 129.99,
+      "credit": 2
+    },
+    {
+      "id": 9,
+      "name": "Noise-Cancelling Headphones",
+      "description": "Over-ear headphones with active noise cancellation.",
+      "photo": "https://i.ibb.co/BKtbpwf/Rectangle-2-6.png",
+      "price": 99.99,
+      "credit": 1
+    }
+  ]
+  
